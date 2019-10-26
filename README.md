@@ -132,3 +132,6 @@ If you have triple-checked all the connections but still getting errors, the pro
 This can be changed with the avrdude "-b" option. Valid baud rates are 2400, 4800, 9600, 14400, 19200, 38400, 57600 and 115200. You can make the setting permanent by editing the jtag2updi entry on "avrdude.conf".
 
 If the trouble is on the UPDI link, a slower speed can be selected by changing UPDI_BAUD and recompiling.
+## Tutorial youtube video
+
+bitluni's lab made a youtube tutorial for this package https://www.youtube.com/watch?v=AL9vK_xMt4E
